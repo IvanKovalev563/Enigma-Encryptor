@@ -1,4 +1,4 @@
-# Enigma Code
+# Enigma Encryptor
 
 A lightweight C# WinForms application for real-time text encryption and decryption using a custom alphabet-substitution algorithm and multi-digit security keys.
 
